@@ -1,3 +1,6 @@
 import { LightningElement } from 'lwc';
 
-export default class Test extends LightningElement {}
+export default class Test extends LightningElement {
+
+    var len=0;
+}
