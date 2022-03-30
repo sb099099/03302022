@@ -2,5 +2,5 @@ import { LightningElement } from 'lwc';
 
 export default class Test extends LightningElement {
 
-    var len=0;
+    var len=1;
 }
